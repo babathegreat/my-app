@@ -10,6 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
           Commit 1
           Commit 2
+          Commit 3
         </p>
         <a
           className="App-link"
